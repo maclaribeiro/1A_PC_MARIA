@@ -1,11 +1,15 @@
 body{
-background-color: rgb(235, 130, 203);
-color:rgb(235, 225, 225);
+background-color:rgb(236, 249, 205);
+color:rgb(255, 255, 255);
 font-family: cursive;
 
 }
 header {
 font-size: 50px;
+border-botton: dotted 5px rgb(167, 248, 224);
+padding:50px;
+text-align: center;
+color:aliceblue
 }
 
 h1{
